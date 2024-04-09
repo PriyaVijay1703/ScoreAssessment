@@ -1,0 +1,44 @@
+[INFO ] 2024-04-09 12:41:37.227 [main] PropertyUtils - Loading Properties to the application
+[INFO ] 2024-04-09 12:41:37.240 [main] PropertyUtils - Properties loaded successfully
+[INFO ] 2024-04-09 12:41:53.257 [main] BaseTest - test case execution started
+[INFO ] 2024-04-09 12:41:53.289 [main] BaseTest - Test case screenshot directory /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091241/theScoreTestCase/
+[INFO ] 2024-04-09 12:41:53.339 [main] BaseTest - theScoreTestCase case execution completed
+[INFO ] 2024-04-09 12:41:54.141 [main] DriverManager - Unloading driver
+[INFO ] 2024-04-09 12:41:54.141 [main] BaseTest - Driver quit successfully
+[INFO ] 2024-04-09 12:44:02.952 [main] PropertyUtils - Loading Properties to the application
+[INFO ] 2024-04-09 12:44:02.957 [main] PropertyUtils - Properties loaded successfully
+[INFO ] 2024-04-09 12:44:15.869 [main] BaseTest - test case execution started
+[INFO ] 2024-04-09 12:44:15.906 [main] BaseTest - Test case screenshot directory /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/
+[INFO ] 2024-04-09 12:44:21.031 [main] ScreenActions - Element Get Started Button clicked successfully
+[INFO ] 2024-04-09 12:44:23.847 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name HomePage
+[INFO ] 2024-04-09 12:44:29.608 [main] ScreenActions - Element NHL Hockey clicked successfully
+[INFO ] 2024-04-09 12:44:31.334 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name LeaguePageLoaded
+[INFO ] 2024-04-09 12:44:34.426 [main] ScreenActions - Element Continue clicked successfully
+[INFO ] 2024-04-09 12:44:37.508 [main] ScreenActions - Element Allow Location clicked successfully
+[INFO ] 2024-04-09 12:44:40.577 [main] ScreenActions - Element Allow clicked successfully
+[INFO ] 2024-04-09 12:44:43.883 [main] ScreenActions - Element Toronto Maple Leafs clicked successfully
+[INFO ] 2024-04-09 12:44:45.649 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name TorontoMapleLeaf
+[INFO ] 2024-04-09 12:44:48.797 [main] ScreenActions - Element Continue clicked successfully
+[INFO ] 2024-04-09 12:44:51.979 [main] ScreenActions - Element Done clicked successfully
+[INFO ] 2024-04-09 12:44:55.046 [main] ScreenActions - Element Maybe Later clicked successfully
+[INFO ] 2024-04-09 12:44:58.379 [main] ScreenActions - Element Dismiss Bet Option clicked successfully
+[INFO ] 2024-04-09 12:45:03.557 [main] ScreenActions - Element Leagues clicked successfully
+[INFO ] 2024-04-09 12:45:03.558 [main] SelectLeaguePage - League Option Clicked
+[INFO ] 2024-04-09 12:45:03.558 [main] ScoreTestCase - League Tab is clicked
+[INFO ] 2024-04-09 12:45:03.983 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name LeagueOption
+[INFO ] 2024-04-09 12:45:07.046 [main] ScreenActions - Element Edit clicked successfully
+[INFO ] 2024-04-09 12:45:10.294 [main] ScreenActions - Element NHL clicked successfully
+[INFO ] 2024-04-09 12:45:10.294 [main] ScoreTestCase - Favourite Team is Selected
+[INFO ] 2024-04-09 12:45:13.807 [main] ScreenActions - Element Scores Tab clicked successfully
+[INFO ] 2024-04-09 12:45:13.807 [main] ScoreTestCase - Score Tab is clicked
+[INFO ] 2024-04-09 12:45:14.783 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name ScoreTab
+[ERROR] 2024-04-09 12:45:16.952 [main] ScoreTestCase - No Data Available Can't locate an element by this strategy: By.chained({By.xpath: //android.widget.TextView[@resource-id="com.fivemobile.thescore:id/txt_home_city" and @text="TOR Maple Leafs"]})
+[INFO ] 2024-04-09 12:45:16.952 [main] ScoreTestCase - Validated Corresponding details present in Score tab
+[INFO ] 2024-04-09 12:45:17.824 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name TORMapleLeaf
+[INFO ] 2024-04-09 12:45:22.952 [main] ScreenActions - Element Navigate Back clicked successfully
+[INFO ] 2024-04-09 12:45:26.112 [main] ScoreTestCase - Navigated back to the Previous page
+[INFO ] 2024-04-09 12:45:26.624 [main] BaseTest - Screenshot saved successfully to /Users/dhana/Documents/codebases/ScoreAssessment/TestRun-04091244/theScoreTestCase/ with name CFL
+[INFO ] 2024-04-09 12:45:26.625 [main] ScoreTestCase - Case Execution Completed Successfully
+[INFO ] 2024-04-09 12:45:26.633 [main] BaseTest - theScoreTestCase case execution completed
+[INFO ] 2024-04-09 12:45:27.362 [main] DriverManager - Unloading driver
+[INFO ] 2024-04-09 12:45:27.363 [main] BaseTest - Driver quit successfully
