@@ -3,11 +3,11 @@
 
 This project aims to automate score mobile testing with mobile automation frameworks.Appium and Android emulator is used for automation.
 It has testsuite which has test case named "ScoreTestCase" . Below are the test steps covered in the testcase
-1.Open Score Application
-2.Navigate to League Page
-3.Selecting Score Tab
-4.Verify that you are on the correct tab and that the data is displayed
-5.Verify that back navigation returns you to the previous page correctly.
+1. Open Score Application
+2. Navigate to League Page
+3. Selecting Score Tab
+4. Verify that you are on the correct tab and that the data is displayed
+5. Verify that back navigation returns you to the previous page correctly.
 
 # Prerequisite
 
