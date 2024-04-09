@@ -1,7 +1,13 @@
 
 # Score Mobile Automation
 
-This project aims to automate score mobile testing with mobile automation frameworks.
+This project aims to automate score mobile testing with mobile automation frameworks.Appium and Android emulator is used for automation.
+It has testsuite which has test case named "ScoreTestCase" . Below are the test steps covered in the testcase
+1.Open Score Application
+2.Navigate to League Page
+3.Selecting Score Tab
+4.Verify that you are on the correct tab and that the data is displayed
+5.Verify that back navigation returns you to the previous page correctly.
 
 # Prerequisite
 
@@ -26,7 +32,7 @@ For Windows: Except Homebrew, Obtain other executables and install manually.
 
 # Steps to Initiate a Test Run
 
-1. Clone repo from Git [replace with git clone command]
+1. Clone repo from Git [git clone git@github.com:PriyaVijay1703/ScoreAssessment.git]
 2. Run Appium Server in local and obtain endpoint by configuring desired capabilities.
 3. Place the app to src/test/resource directory
 4. Open /ScoreMobileAutomation/src/test/resource & update config.properties
@@ -47,7 +53,5 @@ For Windows: Except Homebrew, Obtain other executables and install manually.
 2. Screenshots taken during the test run are stored in test run directory. Name of the directory will be dynamic based on the execution timestamp.
 
 # Sample Execution status
-===============================================
-Default Suite
+
 Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
-===============================================
